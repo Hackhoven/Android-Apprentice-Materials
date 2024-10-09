@@ -1,0 +1,3 @@
+com.raywenderlich.placebook.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
